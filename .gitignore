@@ -59,6 +59,9 @@ typings/
 
 # vscode settings folder
 .vscode/
+
+# macOS metadata
+.DS_Store
 .idea/.gitignore
 .idea/innovationcamp-s.iml
 .idea/modules.xml
